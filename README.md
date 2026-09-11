@@ -52,7 +52,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-orig
 
 🔴 Website institucional para CT de Muay Thai e Jiu-Jitsu  
 🎨 Landing pages modernas e responsivas  
-💻 Projetos focados em Front-End  
+💻 Projetos focados em Front-End 
+💻 API de Academia em desenvolvimento
 
 ---
 
