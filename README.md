@@ -56,18 +56,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-orig
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=emysilva1976&show_icons=true&theme=radical"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emysilva1976&layout=compact&theme=radical"/>
-
-</div>
-
----
-
 ## 🐍 Contribuições
 
 <p align="center">
